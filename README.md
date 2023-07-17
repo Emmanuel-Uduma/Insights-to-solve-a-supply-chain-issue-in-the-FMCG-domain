@@ -1,4 +1,8 @@
-# Revenue-Analysis-1
+# CLIFE Mart: Analysis
+
+### Introduction
+
+CLIFE Mart is a growing FMCG manufacturer headquartered in Ogun, Nigeria. It is currently operational in three cities Lagos, Port-Harcourt, and Ibadan. They want to expand to other metros/Tier 1 cities in the next two years.
 
 # Provide Insights to the revenue team in the hospitality domain
 
