@@ -59,7 +59,7 @@ Furthermore, after analysing the dataset, I observed that there was a massible d
 
 ![Power BI dashboard](https://github.com/Emmanuel-Uduma/Revenue-Analysis-1/assets/118278584/a1fea443-b386-45a3-acde-c7f61b27ca80)
 
-CONCLUSIONS & RECOMMENDATIONS
+### CONCLUSIONS & RECOMMENDATIONS
 
 From the dashboard above, we can see it clearly that the orders In-Full were just a little above the average when compared to the company's target, the same with the orders delivered On-Time. Which is a very bad reputation for the company.
 Also, the orders which were delivered On-Time and In-Full were way too below average, which is the major cause of the decline in the number of orders.
