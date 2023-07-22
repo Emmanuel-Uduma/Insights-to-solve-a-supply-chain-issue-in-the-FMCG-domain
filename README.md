@@ -55,15 +55,19 @@ Also, due to the need for results in the company, the shareholders came together
 
 ![Stakeholders_draft](https://github.com/Emmanuel-Uduma/Revenue-Analysis-1/assets/118278584/026ccdf1-f738-4082-a823-f1927e966c1b)|![Stakeholders_draft_2](https://github.com/Emmanuel-Uduma/Revenue-Analysis-1/assets/118278584/7973b3e9-89f9-48d8-a646-eb43bd817bc9)|![Stakeholders_draft_3](https://github.com/Emmanuel-Uduma/Revenue-Analysis-1/assets/118278584/bbe82013-b0e5-48fd-af11-81fb4b75a161)
 
-Furthermore, after analysing the dataset, I observed that there was a massible decline in the total number of orders in the month of August, which was as a result of the decrease in the orders that arrived On-Time and In-Full. So, I created a dashboard to represent my observations to the stakeholders.
+
+Furthermore, after analyzing the dataset, I observed that there was a massive decline in the total number of orders in the month of August, which was as a result of the decrease in the orders that arrived On-Time and In-Full. So, I created a dashboard to represent my observations to the stakeholders.
 
 ![Power BI dashboard](https://github.com/Emmanuel-Uduma/Revenue-Analysis-1/assets/118278584/a1fea443-b386-45a3-acde-c7f61b27ca80)
 
 ### CONCLUSIONS & RECOMMENDATIONS
 
-From the dashboard above, we can see it clearly that the orders In-Full were just a little above the average when compared to the company's target, the same with the orders delivered On-Time. Which is a very bad reputation for the company.
+From the dashboard above, we can see clearly that the orders In-Full were just a little above the average when compared to the company's target, the same with the orders delivered On-Time. Which is a very bad reputation for the company.
 Also, the orders which were delivered On-Time and In-Full were way too below average, which is the major cause of the decline in the number of orders.
 
-Hence, I will recommend that the stakeholders see to the duties of their various departments tpo make sure that the goods produced are delivered On-Time and In-Full.
+Hence, I will recommend that the stakeholders see to the duties of their various departments to make sure that the goods produced are delivered On-Time and In-Full.
+
+Thank you for taking your time to go through this analysis, feel free to add comments on the comment box. Till I come again…
+
 
 
